@@ -110,9 +110,6 @@ IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
 FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
 ```
 
----
+Built with ❤️ using Next.js, Express, and MySQL ⭐ Star this repo if you found it helpful!
 
-<p align="center">
-  <sub>Built with ❤️ using Next.js, Express, and MySQL</sub><br />
-  <sub>⭐ Star this repo if you found it helpful!</sub>
-</p>
+
